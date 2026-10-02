@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+_site/
+.quarto/
+notebook/*.html
+notebook/*_files/
+.DS_Store
